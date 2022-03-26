@@ -1,7 +1,7 @@
-package com.fun88.android.helpers
+package com.sprinter.android.helpers
 
-import com.fun88.android.AppConfig
-import com.fun88.android.Constants
+import com.sprinter.android.AppConfig
+import com.sprinter.android.Constants
 import com.google.firebase.remoteconfig.FirebaseRemoteConfig
 import com.google.gson.Gson
 import java.lang.Exception

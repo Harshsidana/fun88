@@ -1,4 +1,4 @@
-package com.fun88.android
+package com.sprinter.android
 
 object Constants {
     const val DEFAULT_URL="www.fun88.com"

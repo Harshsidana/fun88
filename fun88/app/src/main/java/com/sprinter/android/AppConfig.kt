@@ -1,4 +1,4 @@
-package com.fun88.android
+package com.sprinter.android
 
 data class AppConfig(
     val type: String,

@@ -1,4 +1,4 @@
-package com.fun88.android.helpers
+package com.sprinter.android.helpers
 
 import android.content.ActivityNotFoundException
 import android.content.Context

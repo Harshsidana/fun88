@@ -1,4 +1,4 @@
-package com.fun88.android
+package com.sprinter.android
 
 import android.app.Activity
 import android.webkit.WebView

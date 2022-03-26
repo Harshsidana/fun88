@@ -33,6 +33,35 @@
           ]
         }
       }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878143899612:android:05e31c13b289773b9e3119",
+        "android_client_info": {
+          "package_name": "com.sprinter.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878143899612-leeik4oj2vnk7k36d7569j8poe16m18g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQJ7BvCpka7GOiJ6HyCcqAL3H3rFTnzNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878143899612-leeik4oj2vnk7k36d7569j8poe16m18g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
     }
   ],
   "configuration_version": "1"

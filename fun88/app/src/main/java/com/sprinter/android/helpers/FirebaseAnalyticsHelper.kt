@@ -1,4 +1,4 @@
-package com.fun88.android.helpers
+package com.sprinter.android.helpers
 
 import androidx.core.os.bundleOf
 import com.google.firebase.analytics.FirebaseAnalytics
