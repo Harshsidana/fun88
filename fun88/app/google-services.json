@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "878143899612",
+    "project_id": "fun88-88775",
+    "storage_bucket": "fun88-88775.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878143899612:android:d0173a7ab6f971229e3119",
+        "android_client_info": {
+          "package_name": "com.fun88.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878143899612-leeik4oj2vnk7k36d7569j8poe16m18g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQJ7BvCpka7GOiJ6HyCcqAL3H3rFTnzNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878143899612-leeik4oj2vnk7k36d7569j8poe16m18g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
